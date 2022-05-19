@@ -21,3 +21,6 @@ tableOfContent {
 }
 
 If I fill a database and then use calling system to pull and push info up and down, this should be the most direct way.
+STARTING with:
+	address
+	person
