@@ -1,0 +1,23 @@
+*
+tracking students proffessors and course and the connection the hold. Gathering the students grades out of /100, their address ph# age and name weather they are
+international or local, full time or part time which is determined by only having 1 or 2 class per semester
+average of students grades
+
+
+*
+	Course awarness where min student capicaty results in termination of course.
+	- this needs a counter and a "if" statement should resolve this.
+*
+	Allowance for teaches earnt when they have taught more than 4 class per semester
+	- this needs a counter and a "if" statement should resolve this.
+
+tableOfContent {
+	name, age, address, phone number
+	class and prof teaching it, 
+	grade of achievement,
+	international or local, 
+	full time or part time
+	average of students grades
+}
+
+If I fill a database and then use calling system to pull and push info up and down, this should be the most direct way.
