@@ -1,2 +1,4 @@
+from course import Course
+from student import Student
 class Enrol:
-	pass
+	def __init__(self, student, course)

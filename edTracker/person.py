@@ -8,7 +8,7 @@ class Person:
 		self.phone = phone
 		self.addresses = []
 
-		if address is isinstance (address, Address):
+		if isinstance (address, Address):
 			self.addresses.append(address)
 		elif address isinstance(address, list):
 			for entry in address:
